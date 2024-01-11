@@ -1,0 +1,1 @@
+tic-tac-toe is a game that requires two players to play, players can choose to be X or O. First player to get 3 in a row or column wins! Users have to log in to keep track of their winning records. Have fun!
